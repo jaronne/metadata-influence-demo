@@ -1,0 +1,50 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Tool",
+    "description": "Weather-only utility for forecast lookup, rain probability, temperature, and umbrella advice.",
+    "schema": {
+      "keywords": ["weather", "forecast", "temperature", "rain", "umbrella", "hot", "cold", "tomorrow", "weekend"]
+    }
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Tool",
+    "description": "Travel-only utility for flights, trains, hotels, and ticket booking. Not for generic planning or unrelated future requests.",
+    "schema": {
+      "keywords": ["flight", "train", "hotel", "ticket", "book", "booking", "destination", "trip", "travel", "stay"]
+    }
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculation Tool",
+    "description": "Numeric-only utility for arithmetic, percentages, and unit conversion. Not for scheduling, broad advice, or general planning.",
+    "schema": {
+      "keywords": ["calculate", "plus", "minus", "times", "percent", "conversion", "convert", "miles", "kilometers", "number"]
+    }
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Tool",
+    "description": "Text-only utility for summarizing, rewriting, and extracting information from documents or notes.",
+    "schema": {
+      "keywords": ["summarize", "summary", "rewrite", "extract", "bullet", "paragraph", "email", "document", "note", "text"]
+    }
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Finance Tool",
+    "description": "Finance-only utility for stock prices, crypto prices, and market performance.",
+    "schema": {
+      "keywords": ["stock", "bitcoin", "price", "market", "tesla", "apple", "closing", "finance", "crypto", "perform"]
+    }
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Tool",
+    "description": "Calendar-only utility for alarms, meetings, appointment changes, and event scheduling.",
+    "schema": {
+      "keywords": ["alarm", "schedule", "meeting", "appointment", "calendar", "event", "move", "tuesday", "monday"]
+    }
+  }
+]

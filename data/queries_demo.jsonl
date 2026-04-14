@@ -1,0 +1,20 @@
+{"query_id": "q01", "query": "What is the weather in Shanghai tomorrow morning?", "gold_tool": "weather_tool"}
+{"query_id": "q02", "query": "Will it rain in Beijing this weekend?", "gold_tool": "weather_tool"}
+{"query_id": "q03", "query": "Book me a flight from Hong Kong to Singapore next Friday.", "gold_tool": "travel_tool"}
+{"query_id": "q04", "query": "Find a hotel near Tokyo Station for two nights.", "gold_tool": "travel_tool"}
+{"query_id": "q05", "query": "What is 245 times 37?", "gold_tool": "calculator_tool"}
+{"query_id": "q06", "query": "Convert 18 miles to kilometers.", "gold_tool": "calculator_tool"}
+{"query_id": "q07", "query": "Summarize this paragraph into three bullet points.", "gold_tool": "document_tool"}
+{"query_id": "q08", "query": "Extract the key action items from this meeting note.", "gold_tool": "document_tool"}
+{"query_id": "q09", "query": "What was the closing price of Tesla stock yesterday?", "gold_tool": "finance_tool"}
+{"query_id": "q10", "query": "Show the latest Bitcoin price.", "gold_tool": "finance_tool"}
+{"query_id": "q11", "query": "Set an alarm for 7 am tomorrow.", "gold_tool": "calendar_tool"}
+{"query_id": "q12", "query": "Schedule a meeting with Alice at 3 pm next Tuesday.", "gold_tool": "calendar_tool"}
+{"query_id": "q13", "query": "Should I carry an umbrella in Shenzhen tonight?", "gold_tool": "weather_tool"}
+{"query_id": "q14", "query": "Find me a cheap train ticket to Guangzhou for Saturday.", "gold_tool": "travel_tool"}
+{"query_id": "q15", "query": "Add 18.6 and 73.4.", "gold_tool": "calculator_tool"}
+{"query_id": "q16", "query": "Rewrite this email to sound more polite and concise.", "gold_tool": "document_tool"}
+{"query_id": "q17", "query": "How did Apple stock perform today?", "gold_tool": "finance_tool"}
+{"query_id": "q18", "query": "Move my dentist appointment to next Monday afternoon.", "gold_tool": "calendar_tool"}
+{"query_id": "q19", "query": "How hot will it be in Guangzhou at noon tomorrow?", "gold_tool": "weather_tool"}
+{"query_id": "q20", "query": "Calculate a 15 percent tip on a 68 dollar bill.", "gold_tool": "calculator_tool"}

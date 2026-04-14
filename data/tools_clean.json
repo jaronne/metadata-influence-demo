@@ -1,0 +1,50 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Lookup",
+    "description": "Get weather forecasts, temperature, rain chance, and umbrella advice for cities and dates.",
+    "schema": {
+      "keywords": ["weather", "forecast", "temperature", "rain", "umbrella", "hot", "cold", "city", "tomorrow", "weekend"]
+    }
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Booking",
+    "description": "Search flights, trains, hotels, and trip options for specific destinations and dates.",
+    "schema": {
+      "keywords": ["flight", "train", "hotel", "ticket", "book", "booking", "destination", "trip", "travel", "stay"]
+    }
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculator",
+    "description": "Perform arithmetic, percentages, unit conversion, and other numeric calculations.",
+    "schema": {
+      "keywords": ["calculate", "plus", "minus", "times", "percent", "conversion", "convert", "miles", "kilometers", "number"]
+    }
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Assistant",
+    "description": "Summarize, rewrite, extract points, and edit text documents or notes.",
+    "schema": {
+      "keywords": ["summarize", "summary", "rewrite", "extract", "bullet", "paragraph", "email", "document", "note", "text"]
+    }
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Market Data",
+    "description": "Check stock and crypto prices, market performance, and financial closing values.",
+    "schema": {
+      "keywords": ["stock", "bitcoin", "price", "market", "tesla", "apple", "closing", "finance", "crypto", "perform"]
+    }
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Scheduler",
+    "description": "Create, move, or manage alarms, meetings, and calendar events.",
+    "schema": {
+      "keywords": ["alarm", "schedule", "meeting", "appointment", "calendar", "event", "move", "tomorrow", "tuesday", "monday"]
+    }
+  }
+]
