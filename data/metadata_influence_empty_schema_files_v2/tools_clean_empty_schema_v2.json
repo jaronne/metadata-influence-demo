@@ -1,0 +1,38 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Lookup",
+    "description": "Use this tool for weather, rain, umbrella, temperature, hot, cold, forecast, city, tonight, tomorrow, weekend, and morning questions.",
+    "schema": {}
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Booking",
+    "description": "Use this tool for flight, train, hotel, ticket, destination, trip, station, nights, and booking requests.",
+    "schema": {}
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculator",
+    "description": "Use this tool for calculate, add, times, convert, miles, kilometers, percent, tip, bill, and other arithmetic problems.",
+    "schema": {}
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Assistant",
+    "description": "Use this tool for summarize, bullet points, extract action items, rewrite email, notes, paragraph, and text editing tasks.",
+    "schema": {}
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Market Data",
+    "description": "Use this tool for stock, Tesla, Apple, Bitcoin, crypto, price, closing price, market, and performance questions.",
+    "schema": {}
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Scheduler",
+    "description": "Use this tool for alarm, schedule, meeting, appointment, move, next Tuesday, next Monday, and calendar event requests.",
+    "schema": {}
+  }
+]

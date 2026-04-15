@@ -1,0 +1,116 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Lookup",
+    "description": "Domain-specific utility for forecast lookup, temperature, rain probability, and umbrella advice for a city and time.",
+    "schema": {
+      "keywords": [
+        "weather",
+        "forecast",
+        "temperature",
+        "rain",
+        "umbrella",
+        "hot",
+        "cold",
+        "city",
+        "tomorrow",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Booking",
+    "description": "Domain-specific utility for flights, trains, hotels, destinations, and ticket booking for a planned trip.",
+    "schema": {
+      "keywords": [
+        "flight",
+        "train",
+        "hotel",
+        "ticket",
+        "book",
+        "booking",
+        "destination",
+        "trip",
+        "travel",
+        "stay"
+      ]
+    }
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculator",
+    "description": "Numeric utility for arithmetic, percentages, tips, and unit conversion.",
+    "schema": {
+      "keywords": [
+        "calculate",
+        "plus",
+        "minus",
+        "times",
+        "percent",
+        "conversion",
+        "convert",
+        "miles",
+        "kilometers",
+        "number"
+      ]
+    }
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Assistant",
+    "description": "Text utility for summarizing, rewriting, extracting key points, and editing notes, emails, or documents.",
+    "schema": {
+      "keywords": [
+        "summarize",
+        "summary",
+        "rewrite",
+        "extract",
+        "bullet",
+        "paragraph",
+        "email",
+        "document",
+        "note",
+        "text"
+      ]
+    }
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Market Data",
+    "description": "Finance utility for stock prices, crypto prices, market performance, and closing values.",
+    "schema": {
+      "keywords": [
+        "stock",
+        "bitcoin",
+        "price",
+        "market",
+        "tesla",
+        "apple",
+        "closing",
+        "finance",
+        "crypto",
+        "perform"
+      ]
+    }
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Scheduler",
+    "description": "Scheduling utility for alarms, meetings, appointment changes, and calendar events.",
+    "schema": {
+      "keywords": [
+        "alarm",
+        "schedule",
+        "meeting",
+        "appointment",
+        "calendar",
+        "event",
+        "move",
+        "tomorrow",
+        "tuesday",
+        "monday"
+      ]
+    }
+  }
+]

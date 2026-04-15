@@ -1,0 +1,38 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Tool",
+    "description": "Single-purpose weather tool for weather, forecast, rain, umbrella, temperature, hot, cold, city, tonight, tomorrow, weekend, and morning.",
+    "schema": {}
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Tool",
+    "description": "Single-purpose travel tool for flight, train, hotel, ticket, destination, trip, station, Friday travel, nights, and booking.",
+    "schema": {}
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculation Tool",
+    "description": "Single-purpose calculation tool for calculate, add, times, convert, miles, kilometers, percent, tip, bill, and arithmetic.",
+    "schema": {}
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Tool",
+    "description": "Single-purpose document tool for summarize, bullet points, extract action items, rewrite email, notes, paragraph, and text editing.",
+    "schema": {}
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Finance Tool",
+    "description": "Single-purpose finance tool for stock, Tesla, Apple, Bitcoin, crypto, price, closing price, market, and performance.",
+    "schema": {}
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Tool",
+    "description": "Single-purpose calendar tool for alarm, schedule, meeting, appointment, move, reschedule, and calendar events.",
+    "schema": {}
+  }
+]

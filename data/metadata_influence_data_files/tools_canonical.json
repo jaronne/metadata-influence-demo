@@ -1,0 +1,115 @@
+[
+  {
+    "tool_id": "weather_tool",
+    "name": "Weather Tool",
+    "description": "Weather-only tool for forecast lookup, rain probability, temperature, and umbrella advice.",
+    "schema": {
+      "keywords": [
+        "weather",
+        "forecast",
+        "temperature",
+        "rain",
+        "umbrella",
+        "hot",
+        "cold",
+        "tomorrow",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "tool_id": "travel_tool",
+    "name": "Travel Tool",
+    "description": "Travel-only tool for flights, trains, hotels, destinations, and ticket booking. Not for weather, finance, writing, or calendar tasks.",
+    "schema": {
+      "keywords": [
+        "flight",
+        "train",
+        "hotel",
+        "ticket",
+        "book",
+        "booking",
+        "destination",
+        "trip",
+        "travel",
+        "stay"
+      ]
+    }
+  },
+  {
+    "tool_id": "calculator_tool",
+    "name": "Calculation Tool",
+    "description": "Numeric-only tool for arithmetic, percentages, tips, and unit conversion. Not for planning, scheduling, or general advice.",
+    "schema": {
+      "keywords": [
+        "calculate",
+        "plus",
+        "minus",
+        "times",
+        "percent",
+        "conversion",
+        "convert",
+        "miles",
+        "kilometers",
+        "number"
+      ]
+    }
+  },
+  {
+    "tool_id": "document_tool",
+    "name": "Document Tool",
+    "description": "Text-only tool for summarizing, rewriting, extracting points, and editing notes, emails, or documents. Not for weather, booking, finance, calendar, or numeric tasks.",
+    "schema": {
+      "keywords": [
+        "summarize",
+        "summary",
+        "rewrite",
+        "extract",
+        "bullet",
+        "paragraph",
+        "email",
+        "document",
+        "note",
+        "text"
+      ]
+    }
+  },
+  {
+    "tool_id": "finance_tool",
+    "name": "Finance Tool",
+    "description": "Finance-only tool for stock prices, crypto prices, market performance, and closing values.",
+    "schema": {
+      "keywords": [
+        "stock",
+        "bitcoin",
+        "price",
+        "market",
+        "tesla",
+        "apple",
+        "closing",
+        "finance",
+        "crypto",
+        "perform"
+      ]
+    }
+  },
+  {
+    "tool_id": "calendar_tool",
+    "name": "Calendar Tool",
+    "description": "Calendar-only tool for alarms, meetings, appointment moves, and event scheduling.",
+    "schema": {
+      "keywords": [
+        "alarm",
+        "schedule",
+        "meeting",
+        "appointment",
+        "calendar",
+        "event",
+        "move",
+        "tuesday",
+        "monday",
+        "tomorrow"
+      ]
+    }
+  }
+]

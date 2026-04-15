@@ -2,49 +2,37 @@
   {
     "tool_id": "weather_tool",
     "name": "Weather Tool",
-    "description": "Weather-only utility for forecast lookup, rain probability, temperature, and umbrella advice.",
-    "schema": {
-      "keywords": ["weather", "forecast", "temperature", "rain", "umbrella", "hot", "cold", "tomorrow", "weekend"]
-    }
+    "description": "Handles: weather, rain, umbrella, temperature, hot conditions, tomorrow forecasts, weekend forecasts, and city forecasts. Not for: flight, train, hotel, ticket, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "schema": {}
   },
   {
     "tool_id": "travel_tool",
     "name": "Travel Tool",
-    "description": "Travel-only utility for flights, trains, hotels, and ticket booking. Not for generic planning or unrelated future requests.",
-    "schema": {
-      "keywords": ["flight", "train", "hotel", "ticket", "book", "booking", "destination", "trip", "travel", "stay"]
-    }
+    "description": "Handles: flight, train, hotel, ticket, trip booking, destination stay, and book travel plans. Not for: weather, rain, umbrella, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "schema": {}
   },
   {
     "tool_id": "calculator_tool",
     "name": "Calculation Tool",
-    "description": "Numeric-only utility for arithmetic, percentages, and unit conversion. Not for scheduling, broad advice, or general planning.",
-    "schema": {
-      "keywords": ["calculate", "plus", "minus", "times", "percent", "conversion", "convert", "miles", "kilometers", "number"]
-    }
+    "description": "Handles: arithmetic, times, add, convert, percent, tip, totals, and numeric calculations. Not for: flight, train, hotel, weather, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "schema": {}
   },
   {
     "tool_id": "document_tool",
     "name": "Document Tool",
-    "description": "Text-only utility for summarizing, rewriting, and extracting information from documents or notes.",
-    "schema": {
-      "keywords": ["summarize", "summary", "rewrite", "extract", "bullet", "paragraph", "email", "document", "note", "text"]
-    }
+    "description": "Handles: summarize, rewrite, extract, bullet points, action items, notes, emails, and paragraph editing. Not for: weather, rain, umbrella, flight, train, hotel, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment.",
+    "schema": {}
   },
   {
     "tool_id": "finance_tool",
     "name": "Finance Tool",
-    "description": "Finance-only utility for stock prices, crypto prices, and market performance.",
-    "schema": {
-      "keywords": ["stock", "bitcoin", "price", "market", "tesla", "apple", "closing", "finance", "crypto", "perform"]
-    }
+    "description": "Handles: stock price, bitcoin price, crypto price, closing price, and market performance. Not for: weather, travel, flight, hotel, arithmetic, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "schema": {}
   },
   {
     "tool_id": "calendar_tool",
     "name": "Calendar Tool",
-    "description": "Calendar-only utility for alarms, meetings, appointment changes, and event scheduling.",
-    "schema": {
-      "keywords": ["alarm", "schedule", "meeting", "appointment", "calendar", "event", "move", "tuesday", "monday"]
-    }
+    "description": "Handles: alarm, schedule, meeting, appointment, move, reschedule, and event setup. Not for: weather, rain, flight, hotel, arithmetic, stock price, bitcoin price, summarize, rewrite, extract.",
+    "schema": {}
   }
 ]
