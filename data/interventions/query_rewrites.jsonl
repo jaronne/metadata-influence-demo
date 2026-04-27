@@ -1,0 +1,60 @@
+{"query_id":"q01","rewrite_id":"q01_r1","rewritten_query":"Please check whether I will need to bring an umbrella in Shanghai tomorrow morning."}
+{"query_id":"q01","rewrite_id":"q01_r2","rewritten_query":"Can you tell me if I should carry an umbrella in Shanghai tomorrow morning?"}
+{"query_id":"q01","rewrite_id":"q01_r3","rewritten_query":"Let me know whether an umbrella is necessary in Shanghai tomorrow morning."}
+{"query_id":"q02","rewrite_id":"q02_r1","rewritten_query":"Please tell me the expected temperature in Guangzhou at noon tomorrow."}
+{"query_id":"q02","rewrite_id":"q02_r2","rewritten_query":"What temperature is forecast for Guangzhou at noon tomorrow?"}
+{"query_id":"q02","rewrite_id":"q02_r3","rewritten_query":"Could you share the expected noon temperature in Guangzhou for tomorrow?"}
+{"query_id":"q03","rewrite_id":"q03_r1","rewritten_query":"Please find and book a flight from Hong Kong to Singapore for next Friday."}
+{"query_id":"q03","rewrite_id":"q03_r2","rewritten_query":"Can you book me a flight from Hong Kong to Singapore for next Friday?"}
+{"query_id":"q03","rewrite_id":"q03_r3","rewritten_query":"Help me locate and reserve a flight from Hong Kong to Singapore for next Friday."}
+{"query_id":"q04","rewrite_id":"q04_r1","rewritten_query":"Please plan a two-night hotel stay near Tokyo Station."}
+{"query_id":"q04","rewrite_id":"q04_r2","rewritten_query":"Can you arrange a hotel stay for two nights near Tokyo Station?"}
+{"query_id":"q04","rewrite_id":"q04_r3","rewritten_query":"Help me plan accommodation near Tokyo Station for two nights."}
+{"query_id":"q05","rewrite_id":"q05_r1","rewritten_query":"Please work out 245 times 37."}
+{"query_id":"q05","rewrite_id":"q05_r2","rewritten_query":"Can you calculate 245 multiplied by 37?"}
+{"query_id":"q05","rewrite_id":"q05_r3","rewritten_query":"Compute the product of 245 and 37."}
+{"query_id":"q06","rewrite_id":"q06_r1","rewritten_query":"Please compute a 15 percent tip on a 68 dollar bill."}
+{"query_id":"q06","rewrite_id":"q06_r2","rewritten_query":"Can you calculate the 15 percent tip for a 68 dollar bill?"}
+{"query_id":"q06","rewrite_id":"q06_r3","rewritten_query":"Work out how much a 15 percent tip would be on a 68 dollar bill."}
+{"query_id":"q07","rewrite_id":"q07_r1","rewritten_query":"Please summarize this meeting note into three bullets."}
+{"query_id":"q07","rewrite_id":"q07_r2","rewritten_query":"Can you turn this meeting note into three bullet points?"}
+{"query_id":"q07","rewrite_id":"q07_r3","rewritten_query":"Summarize this meeting note as three bullets."}
+{"query_id":"q08","rewrite_id":"q08_r1","rewritten_query":"Please rewrite this email so it sounds more polite and concise."}
+{"query_id":"q08","rewrite_id":"q08_r2","rewritten_query":"Can you make this email more polite and concise?"}
+{"query_id":"q08","rewrite_id":"q08_r3","rewritten_query":"Rewrite this email in a more polite and concise way."}
+{"query_id":"q09","rewrite_id":"q09_r1","rewritten_query":"Please check Tesla's closing stock price from yesterday."}
+{"query_id":"q09","rewrite_id":"q09_r2","rewritten_query":"Can you look up Tesla's closing stock price from yesterday?"}
+{"query_id":"q09","rewrite_id":"q09_r3","rewritten_query":"Tell me Tesla's closing stock price for yesterday."}
+{"query_id":"q10","rewrite_id":"q10_r1","rewritten_query":"Please look up the latest Bitcoin price."}
+{"query_id":"q10","rewrite_id":"q10_r2","rewritten_query":"Can you check the latest price of Bitcoin?"}
+{"query_id":"q10","rewrite_id":"q10_r3","rewritten_query":"Tell me the most recent Bitcoin price."}
+{"query_id":"q11","rewrite_id":"q11_r1","rewritten_query":"Please set an alarm for 7 am tomorrow."}
+{"query_id":"q11","rewrite_id":"q11_r2","rewritten_query":"Can you schedule an alarm for 7 am tomorrow?"}
+{"query_id":"q11","rewrite_id":"q11_r3","rewritten_query":"Set up an alarm for 7 am tomorrow."}
+{"query_id":"q12","rewrite_id":"q12_r1","rewritten_query":"Please move my dentist appointment to next Monday afternoon."}
+{"query_id":"q12","rewrite_id":"q12_r2","rewritten_query":"Can you reschedule my dentist appointment for next Monday afternoon?"}
+{"query_id":"q12","rewrite_id":"q12_r3","rewritten_query":"Help me shift my dentist appointment to next Monday afternoon."}
+{"query_id":"q13","rewrite_id":"q13_r1","rewritten_query":"Please tell me whether it will rain in Beijing this weekend."}
+{"query_id":"q13","rewrite_id":"q13_r2","rewritten_query":"Can you check if rain is expected in Beijing this weekend?"}
+{"query_id":"q13","rewrite_id":"q13_r3","rewritten_query":"Let me know if Beijing will get rain this weekend."}
+{"query_id":"q14","rewrite_id":"q14_r1","rewritten_query":"Please find a cheap train ticket to Guangzhou for Saturday."}
+{"query_id":"q14","rewrite_id":"q14_r2","rewritten_query":"Can you look for an inexpensive train ticket to Guangzhou for Saturday?"}
+{"query_id":"q14","rewrite_id":"q14_r3","rewritten_query":"Help me find a low-cost train ticket to Guangzhou for Saturday."}
+{"query_id":"q15","rewrite_id":"q15_r1","rewritten_query":"Please convert 18 miles to kilometers."}
+{"query_id":"q15","rewrite_id":"q15_r2","rewritten_query":"Can you change 18 miles into kilometers?"}
+{"query_id":"q15","rewrite_id":"q15_r3","rewritten_query":"Tell me 18 miles in kilometers."}
+{"query_id":"q16","rewrite_id":"q16_r1","rewritten_query":"Please extract the action items from this paragraph."}
+{"query_id":"q16","rewrite_id":"q16_r2","rewritten_query":"Can you pull out the action items from this paragraph?"}
+{"query_id":"q16","rewrite_id":"q16_r3","rewritten_query":"Identify the action items in this paragraph."}
+{"query_id":"q17","rewrite_id":"q17_r1","rewritten_query":"Please tell me how Apple stock performed today."}
+{"query_id":"q17","rewrite_id":"q17_r2","rewritten_query":"Can you check Apple's stock performance today?"}
+{"query_id":"q17","rewrite_id":"q17_r3","rewritten_query":"Let me know how Apple stock did today."}
+{"query_id":"q18","rewrite_id":"q18_r1","rewritten_query":"Please schedule a meeting with Alice at 3 pm next Tuesday."}
+{"query_id":"q18","rewrite_id":"q18_r2","rewritten_query":"Can you set up a meeting with Alice for 3 pm next Tuesday?"}
+{"query_id":"q18","rewrite_id":"q18_r3","rewritten_query":"Arrange a meeting with Alice at 3 pm next Tuesday."}
+{"query_id":"q19","rewrite_id":"q19_r1","rewritten_query":"Please tell me whether I should expect hot weather in Shenzhen tonight."}
+{"query_id":"q19","rewrite_id":"q19_r2","rewritten_query":"Can you check if it will be hot in Shenzhen tonight?"}
+{"query_id":"q19","rewrite_id":"q19_r3","rewritten_query":"Let me know whether Shenzhen will have hot weather tonight."}
+{"query_id":"q20","rewrite_id":"q20_r1","rewritten_query":"Please add 18.6 and 73.4."}
+{"query_id":"q20","rewrite_id":"q20_r2","rewritten_query":"Can you calculate 18.6 plus 73.4?"}
+{"query_id":"q20","rewrite_id":"q20_r3","rewritten_query":"Work out the sum of 18.6 and 73.4."}
