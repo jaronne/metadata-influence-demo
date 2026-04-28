@@ -5,7 +5,7 @@
 {"query_id": "q05", "query": "Work out 245 times 37.", "gold_tool": "calculator_tool"}
 {"query_id": "q06", "query": "Compute a 15 percent tip on a 68 dollar bill.", "gold_tool": "calculator_tool"}
 {"query_id": "q07", "query": "Summarize this meeting note into three bullets.", "gold_tool": "document_tool"}
-{"query_id": "q08", "query": "Rewrite this email so it sounds more polite and concise.", "gold_tool": "document_tool"}
+{"query_id": "q08", "query": "Rewrite this draft so it sounds more polite and concise.", "gold_tool": "document_tool"}
 {"query_id": "q09", "query": "Check Tesla's closing stock price from yesterday.", "gold_tool": "finance_tool"}
 {"query_id": "q10", "query": "Look up the latest Bitcoin price.", "gold_tool": "finance_tool"}
 {"query_id": "q11", "query": "Set an alarm for 7 am tomorrow.", "gold_tool": "calendar_tool"}
@@ -18,3 +18,33 @@
 {"query_id": "q18", "query": "Schedule a meeting with Alice at 3 pm next Tuesday.", "gold_tool": "calendar_tool"}
 {"query_id": "q19", "query": "Should I expect hot weather in Shenzhen tonight?", "gold_tool": "weather_tool"}
 {"query_id": "q20", "query": "Add 18.6 and 73.4.", "gold_tool": "calculator_tool"}
+{"query_id": "q21", "query": "Send a follow-up email to Bob about the contract.", "gold_tool": "email_tool"}
+{"query_id": "q22", "query": "Search the web for recent news about NASA's Artemis program.", "gold_tool": "web_search_tool"}
+{"query_id": "q23", "query": "Give me walking directions from Shinjuku Station to Shibuya Crossing.", "gold_tool": "maps_tool"}
+{"query_id": "q24", "query": "Translate this sentence into Japanese: I will arrive ten minutes late.", "gold_tool": "translation_tool"}
+{"query_id": "q25", "query": "Debug this Python traceback and explain why the import fails.", "gold_tool": "coding_tool"}
+{"query_id": "q26", "query": "Build a three-day itinerary for Osaka and Kyoto.", "gold_tool": "travel_tool"}
+{"query_id": "q27", "query": "Compare wireless earbuds under 100 dollars.", "gold_tool": "shopping_tool"}
+{"query_id": "q28", "query": "Shorten this paragraph without changing its meaning.", "gold_tool": "document_tool"}
+{"query_id": "q29", "query": "Compare today's performance of the S&P 500 and Nasdaq.", "gold_tool": "finance_tool"}
+{"query_id": "q30", "query": "Remind me to submit the reimbursement form tomorrow afternoon.", "gold_tool": "calendar_tool"}
+{"query_id": "q31", "query": "Check the weekend weather forecast for Hangzhou.", "gold_tool": "weather_tool"}
+{"query_id": "q32", "query": "Calculate the final price after a 12 percent discount on 860 yuan.", "gold_tool": "calculator_tool"}
+{"query_id": "q33", "query": "Find unread emails from Sarah about the project proposal.", "gold_tool": "email_tool"}
+{"query_id": "q34", "query": "Look up the official release date of the latest Ubuntu LTS.", "gold_tool": "web_search_tool"}
+{"query_id": "q35", "query": "Translate this French sentence into English: Je vous remercie pour votre aide.", "gold_tool": "translation_tool"}
+{"query_id": "q36", "query": "Write a SQL query to count orders by customer.", "gold_tool": "coding_tool"}
+{"query_id": "q37", "query": "Find the fastest driving route from Pudong Airport to downtown Shanghai.", "gold_tool": "maps_tool"}
+{"query_id": "q38", "query": "Book a rental car for my trip to Los Angeles next week.", "gold_tool": "travel_tool"}
+{"query_id": "q39", "query": "Turn these rough notes into a structured outline.", "gold_tool": "document_tool"}
+{"query_id": "q40", "query": "Check Nvidia's market cap and recent share price movement.", "gold_tool": "finance_tool"}
+{"query_id": "q41", "query": "Cancel my team sync meeting on Friday morning.", "gold_tool": "calendar_tool"}
+{"query_id": "q42", "query": "Recommend a quiet mechanical keyboard under 80 dollars.", "gold_tool": "shopping_tool"}
+{"query_id": "q43", "query": "Find nearby parking around Tokyo Dome.", "gold_tool": "maps_tool"}
+{"query_id": "q44", "query": "Calculate the monthly payment for a 12000 dollar loan at 6 percent annual interest over 24 months.", "gold_tool": "calculator_tool"}
+{"query_id": "q45", "query": "Forward the invoice email to the finance team.", "gold_tool": "email_tool"}
+{"query_id": "q46", "query": "Find the official documentation for pandas read_csv.", "gold_tool": "web_search_tool"}
+{"query_id": "q47", "query": "Translate this product tagline into Spanish.", "gold_tool": "translation_tool"}
+{"query_id": "q48", "query": "Explain this TypeScript type error in my React component.", "gold_tool": "coding_tool"}
+{"query_id": "q49", "query": "Find the best price for a 27 inch 4K monitor.", "gold_tool": "shopping_tool"}
+{"query_id": "q50", "query": "Generate a regex that matches a simple phone number.", "gold_tool": "coding_tool"}

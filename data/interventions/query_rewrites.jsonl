@@ -19,18 +19,18 @@
 {"query_id":"q07","rewrite_id":"q07_r1","rewritten_query":"Please summarize this meeting note into three bullets."}
 {"query_id":"q07","rewrite_id":"q07_r2","rewritten_query":"Can you turn this meeting note into three bullet points?"}
 {"query_id":"q07","rewrite_id":"q07_r3","rewritten_query":"Summarize this meeting note as three bullets."}
-{"query_id":"q08","rewrite_id":"q08_r1","rewritten_query":"Please rewrite this email so it sounds more polite and concise."}
-{"query_id":"q08","rewrite_id":"q08_r2","rewritten_query":"Can you make this email more polite and concise?"}
-{"query_id":"q08","rewrite_id":"q08_r3","rewritten_query":"Rewrite this email in a more polite and concise way."}
+{"query_id":"q08","rewrite_id":"q08_r1","rewritten_query":"Please rewrite this draft so it is more polite and concise."}
+{"query_id":"q08","rewrite_id":"q08_r2","rewritten_query":"Can you make this draft sound more polite while keeping it concise?"}
+{"query_id":"q08","rewrite_id":"q08_r3","rewritten_query":"Rewrite this draft in a polite and concise style."}
 {"query_id":"q09","rewrite_id":"q09_r1","rewritten_query":"Please check Tesla's closing stock price from yesterday."}
 {"query_id":"q09","rewrite_id":"q09_r2","rewritten_query":"Can you look up Tesla's closing stock price from yesterday?"}
 {"query_id":"q09","rewrite_id":"q09_r3","rewritten_query":"Tell me Tesla's closing stock price for yesterday."}
 {"query_id":"q10","rewrite_id":"q10_r1","rewritten_query":"Please look up the latest Bitcoin price."}
-{"query_id":"q10","rewrite_id":"q10_r2","rewritten_query":"Can you check the latest price of Bitcoin?"}
-{"query_id":"q10","rewrite_id":"q10_r3","rewritten_query":"Tell me the most recent Bitcoin price."}
+{"query_id":"q10","rewrite_id":"q10_r2","rewritten_query":"Can you check the most recent price of Bitcoin?"}
+{"query_id":"q10","rewrite_id":"q10_r3","rewritten_query":"Tell me the current Bitcoin price."}
 {"query_id":"q11","rewrite_id":"q11_r1","rewritten_query":"Please set an alarm for 7 am tomorrow."}
 {"query_id":"q11","rewrite_id":"q11_r2","rewritten_query":"Can you schedule an alarm for 7 am tomorrow?"}
-{"query_id":"q11","rewrite_id":"q11_r3","rewritten_query":"Set up an alarm for 7 am tomorrow."}
+{"query_id":"q11","rewrite_id":"q11_r3","rewritten_query":"Set up an alarm for tomorrow at 7 am."}
 {"query_id":"q12","rewrite_id":"q12_r1","rewritten_query":"Please move my dentist appointment to next Monday afternoon."}
 {"query_id":"q12","rewrite_id":"q12_r2","rewritten_query":"Can you reschedule my dentist appointment for next Monday afternoon?"}
 {"query_id":"q12","rewrite_id":"q12_r3","rewritten_query":"Help me shift my dentist appointment to next Monday afternoon."}
@@ -39,7 +39,7 @@
 {"query_id":"q13","rewrite_id":"q13_r3","rewritten_query":"Let me know if Beijing will get rain this weekend."}
 {"query_id":"q14","rewrite_id":"q14_r1","rewritten_query":"Please find a cheap train ticket to Guangzhou for Saturday."}
 {"query_id":"q14","rewrite_id":"q14_r2","rewritten_query":"Can you look for an inexpensive train ticket to Guangzhou for Saturday?"}
-{"query_id":"q14","rewrite_id":"q14_r3","rewritten_query":"Help me find a low-cost train ticket to Guangzhou for Saturday."}
+{"query_id":"q14","rewrite_id":"q14_r3","rewritten_query":"Help me find a low-cost train ticket to Guangzhou this Saturday."}
 {"query_id":"q15","rewrite_id":"q15_r1","rewritten_query":"Please convert 18 miles to kilometers."}
 {"query_id":"q15","rewrite_id":"q15_r2","rewritten_query":"Can you change 18 miles into kilometers?"}
 {"query_id":"q15","rewrite_id":"q15_r3","rewritten_query":"Tell me 18 miles in kilometers."}
@@ -58,3 +58,93 @@
 {"query_id":"q20","rewrite_id":"q20_r1","rewritten_query":"Please add 18.6 and 73.4."}
 {"query_id":"q20","rewrite_id":"q20_r2","rewritten_query":"Can you calculate 18.6 plus 73.4?"}
 {"query_id":"q20","rewrite_id":"q20_r3","rewritten_query":"Work out the sum of 18.6 and 73.4."}
+{"query_id":"q21","rewrite_id":"q21_r1","rewritten_query":"Please send Bob a follow-up email about the contract."}
+{"query_id":"q21","rewrite_id":"q21_r2","rewritten_query":"Can you email Bob to follow up on the contract?"}
+{"query_id":"q21","rewrite_id":"q21_r3","rewritten_query":"Send a contract follow-up message to Bob."}
+{"query_id":"q22","rewrite_id":"q22_r1","rewritten_query":"Please search the web for recent news about NASA's Artemis program."}
+{"query_id":"q22","rewrite_id":"q22_r2","rewritten_query":"Can you look online for recent updates on NASA's Artemis program?"}
+{"query_id":"q22","rewrite_id":"q22_r3","rewritten_query":"Find current web news about the NASA Artemis program."}
+{"query_id":"q23","rewrite_id":"q23_r1","rewritten_query":"Please give me walking directions from Shinjuku Station to Shibuya Crossing."}
+{"query_id":"q23","rewrite_id":"q23_r2","rewritten_query":"Can you show the walking route from Shinjuku Station to Shibuya Crossing?"}
+{"query_id":"q23","rewrite_id":"q23_r3","rewritten_query":"Find pedestrian directions from Shinjuku Station to Shibuya Crossing."}
+{"query_id":"q24","rewrite_id":"q24_r1","rewritten_query":"Please translate this sentence into Japanese: I will arrive ten minutes late."}
+{"query_id":"q24","rewrite_id":"q24_r2","rewritten_query":"Can you render this in Japanese: I will arrive ten minutes late."}
+{"query_id":"q24","rewrite_id":"q24_r3","rewritten_query":"Translate into Japanese: I will arrive ten minutes late."}
+{"query_id":"q25","rewrite_id":"q25_r1","rewritten_query":"Please debug this Python traceback and explain why the import fails."}
+{"query_id":"q25","rewrite_id":"q25_r2","rewritten_query":"Can you analyze this Python traceback and tell me why the import is failing?"}
+{"query_id":"q25","rewrite_id":"q25_r3","rewritten_query":"Help me understand the import failure shown in this Python traceback."}
+{"query_id":"q26","rewrite_id":"q26_r1","rewritten_query":"Please build a three-day itinerary for Osaka and Kyoto."}
+{"query_id":"q26","rewrite_id":"q26_r2","rewritten_query":"Can you plan a three-day Osaka and Kyoto itinerary?"}
+{"query_id":"q26","rewrite_id":"q26_r3","rewritten_query":"Create a three-day travel plan covering Osaka and Kyoto."}
+{"query_id":"q27","rewrite_id":"q27_r1","rewritten_query":"Please compare wireless earbuds that cost under 100 dollars."}
+{"query_id":"q27","rewrite_id":"q27_r2","rewritten_query":"Can you compare sub-100-dollar wireless earbuds?"}
+{"query_id":"q27","rewrite_id":"q27_r3","rewritten_query":"Help me evaluate wireless earbuds priced below 100 dollars."}
+{"query_id":"q28","rewrite_id":"q28_r1","rewritten_query":"Please shorten this paragraph without changing its meaning."}
+{"query_id":"q28","rewrite_id":"q28_r2","rewritten_query":"Can you make this paragraph shorter while preserving the meaning?"}
+{"query_id":"q28","rewrite_id":"q28_r3","rewritten_query":"Condense this paragraph but keep the meaning unchanged."}
+{"query_id":"q29","rewrite_id":"q29_r1","rewritten_query":"Please compare today's performance of the S&P 500 and Nasdaq."}
+{"query_id":"q29","rewrite_id":"q29_r2","rewritten_query":"Can you check how the S&P 500 and Nasdaq performed today?"}
+{"query_id":"q29","rewrite_id":"q29_r3","rewritten_query":"Compare the S&P 500 with the Nasdaq for today's market performance."}
+{"query_id":"q30","rewrite_id":"q30_r1","rewritten_query":"Please remind me to submit the reimbursement form tomorrow afternoon."}
+{"query_id":"q30","rewrite_id":"q30_r2","rewritten_query":"Can you set a reminder for me to submit the reimbursement form tomorrow afternoon?"}
+{"query_id":"q30","rewrite_id":"q30_r3","rewritten_query":"Schedule a reminder about submitting the reimbursement form tomorrow afternoon."}
+{"query_id":"q31","rewrite_id":"q31_r1","rewritten_query":"Please check the weekend weather forecast for Hangzhou."}
+{"query_id":"q31","rewrite_id":"q31_r2","rewritten_query":"Can you look up Hangzhou's weather forecast for this weekend?"}
+{"query_id":"q31","rewrite_id":"q31_r3","rewritten_query":"Tell me the weekend forecast for Hangzhou."}
+{"query_id":"q32","rewrite_id":"q32_r1","rewritten_query":"Please calculate the final price after a 12 percent discount on 860 yuan."}
+{"query_id":"q32","rewrite_id":"q32_r2","rewritten_query":"Can you work out the price of 860 yuan after a 12 percent discount?"}
+{"query_id":"q32","rewrite_id":"q32_r3","rewritten_query":"Find the discounted final price for 860 yuan with 12 percent off."}
+{"query_id":"q33","rewrite_id":"q33_r1","rewritten_query":"Please find unread emails from Sarah about the project proposal."}
+{"query_id":"q33","rewrite_id":"q33_r2","rewritten_query":"Can you search my unread email from Sarah about the project proposal?"}
+{"query_id":"q33","rewrite_id":"q33_r3","rewritten_query":"Look for unread messages from Sarah related to the project proposal."}
+{"query_id":"q34","rewrite_id":"q34_r1","rewritten_query":"Please look up the official release date of the latest Ubuntu LTS."}
+{"query_id":"q34","rewrite_id":"q34_r2","rewritten_query":"Can you find the official release date for the newest Ubuntu LTS?"}
+{"query_id":"q34","rewrite_id":"q34_r3","rewritten_query":"Search for the official release date of the most recent Ubuntu LTS."}
+{"query_id":"q35","rewrite_id":"q35_r1","rewritten_query":"Please translate this French sentence into English: Je vous remercie pour votre aide."}
+{"query_id":"q35","rewrite_id":"q35_r2","rewritten_query":"Can you translate into English: Je vous remercie pour votre aide."}
+{"query_id":"q35","rewrite_id":"q35_r3","rewritten_query":"Render this French sentence in English: Je vous remercie pour votre aide."}
+{"query_id":"q36","rewrite_id":"q36_r1","rewritten_query":"Please write a SQL query to count orders by customer."}
+{"query_id":"q36","rewrite_id":"q36_r2","rewritten_query":"Can you create SQL that counts orders grouped by customer?"}
+{"query_id":"q36","rewrite_id":"q36_r3","rewritten_query":"Write SQL for counting the number of orders per customer."}
+{"query_id":"q37","rewrite_id":"q37_r1","rewritten_query":"Please find the fastest driving route from Pudong Airport to downtown Shanghai."}
+{"query_id":"q37","rewrite_id":"q37_r2","rewritten_query":"Can you look up the quickest car route from Pudong Airport to downtown Shanghai?"}
+{"query_id":"q37","rewrite_id":"q37_r3","rewritten_query":"Show me the fastest driving directions from Pudong Airport into downtown Shanghai."}
+{"query_id":"q38","rewrite_id":"q38_r1","rewritten_query":"Please book a rental car for my trip to Los Angeles next week."}
+{"query_id":"q38","rewrite_id":"q38_r2","rewritten_query":"Can you arrange a rental car in Los Angeles for next week's trip?"}
+{"query_id":"q38","rewrite_id":"q38_r3","rewritten_query":"Help me reserve a rental car for my Los Angeles trip next week."}
+{"query_id":"q39","rewrite_id":"q39_r1","rewritten_query":"Please turn these rough notes into a structured outline."}
+{"query_id":"q39","rewrite_id":"q39_r2","rewritten_query":"Can you organize these rough notes into an outline?"}
+{"query_id":"q39","rewrite_id":"q39_r3","rewritten_query":"Convert these rough notes into a clear structured outline."}
+{"query_id":"q40","rewrite_id":"q40_r1","rewritten_query":"Please check Nvidia's market cap and recent share price movement."}
+{"query_id":"q40","rewrite_id":"q40_r2","rewritten_query":"Can you look up Nvidia's market capitalization and recent stock movement?"}
+{"query_id":"q40","rewrite_id":"q40_r3","rewritten_query":"Find Nvidia's current market cap and recent share-price trend."}
+{"query_id":"q41","rewrite_id":"q41_r1","rewritten_query":"Please cancel my team sync meeting on Friday morning."}
+{"query_id":"q41","rewrite_id":"q41_r2","rewritten_query":"Can you remove the team sync meeting scheduled for Friday morning?"}
+{"query_id":"q41","rewrite_id":"q41_r3","rewritten_query":"Cancel the Friday morning team sync on my calendar."}
+{"query_id":"q42","rewrite_id":"q42_r1","rewritten_query":"Please recommend a quiet mechanical keyboard under 80 dollars."}
+{"query_id":"q42","rewrite_id":"q42_r2","rewritten_query":"Can you suggest quiet mechanical keyboards below 80 dollars?"}
+{"query_id":"q42","rewrite_id":"q42_r3","rewritten_query":"Find a quiet mechanical keyboard recommendation that costs under 80 dollars."}
+{"query_id":"q43","rewrite_id":"q43_r1","rewritten_query":"Please find nearby parking around Tokyo Dome."}
+{"query_id":"q43","rewrite_id":"q43_r2","rewritten_query":"Can you look for parking options near Tokyo Dome?"}
+{"query_id":"q43","rewrite_id":"q43_r3","rewritten_query":"Show me parking places close to Tokyo Dome."}
+{"query_id":"q44","rewrite_id":"q44_r1","rewritten_query":"Please calculate the monthly payment for a 12000 dollar loan at 6 percent annual interest over 24 months."}
+{"query_id":"q44","rewrite_id":"q44_r2","rewritten_query":"Can you work out the monthly payment on a 12000 dollar loan with 6 percent annual interest for 24 months?"}
+{"query_id":"q44","rewrite_id":"q44_r3","rewritten_query":"Find the monthly payment for borrowing 12000 dollars at 6 percent annual interest across 24 months."}
+{"query_id":"q45","rewrite_id":"q45_r1","rewritten_query":"Please forward the invoice email to the finance team."}
+{"query_id":"q45","rewrite_id":"q45_r2","rewritten_query":"Can you send the invoice email on to the finance team?"}
+{"query_id":"q45","rewrite_id":"q45_r3","rewritten_query":"Forward the email containing the invoice to finance."}
+{"query_id":"q46","rewrite_id":"q46_r1","rewritten_query":"Please find the official documentation for pandas read_csv."}
+{"query_id":"q46","rewrite_id":"q46_r2","rewritten_query":"Can you look up the official pandas read_csv documentation?"}
+{"query_id":"q46","rewrite_id":"q46_r3","rewritten_query":"Search for pandas' official read_csv docs."}
+{"query_id":"q47","rewrite_id":"q47_r1","rewritten_query":"Please translate this product tagline into Spanish."}
+{"query_id":"q47","rewrite_id":"q47_r2","rewritten_query":"Can you render this product tagline in Spanish?"}
+{"query_id":"q47","rewrite_id":"q47_r3","rewritten_query":"Translate the product slogan into Spanish."}
+{"query_id":"q48","rewrite_id":"q48_r1","rewritten_query":"Please explain this TypeScript type error in my React component."}
+{"query_id":"q48","rewrite_id":"q48_r2","rewritten_query":"Can you diagnose this TypeScript type error in my React component?"}
+{"query_id":"q48","rewrite_id":"q48_r3","rewritten_query":"Help me understand the TypeScript type error in this React component."}
+{"query_id":"q49","rewrite_id":"q49_r1","rewritten_query":"Please find the best price for a 27 inch 4K monitor."}
+{"query_id":"q49","rewrite_id":"q49_r2","rewritten_query":"Can you compare prices for a 27 inch 4K monitor?"}
+{"query_id":"q49","rewrite_id":"q49_r3","rewritten_query":"Look for the lowest good price on a 27 inch 4K monitor."}
+{"query_id":"q50","rewrite_id":"q50_r1","rewritten_query":"Please generate a regex that matches a simple phone number."}
+{"query_id":"q50","rewrite_id":"q50_r2","rewritten_query":"Can you write a regular expression for a simple phone number?"}
+{"query_id":"q50","rewrite_id":"q50_r3","rewritten_query":"Create a regex pattern that recognizes a basic phone number."}

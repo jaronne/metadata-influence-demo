@@ -2,37 +2,73 @@
   {
     "tool_id": "weather_tool",
     "name": "Weather Specialist",
-    "description": "Handles: weather, rain, umbrella, temperature, hot conditions, tomorrow forecasts, weekend forecasts, city forecasts. Not for: flight, train, hotel, ticket, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "description": "Handles: weather, rain, umbrella, temperature, hot conditions, forecast, morning forecast, weekend forecast, city weather, storm, snow. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   },
   {
     "tool_id": "travel_tool",
     "name": "Travel Specialist",
-    "description": "Handles: flight, train, hotel, ticket, trip booking, destination stay, and book travel plans. Not for: weather, rain, umbrella, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "description": "Handles: flight, train, hotel, ticket, itinerary, trip booking, destination stay, rental car, travel plan, book travel, route for trips. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   },
   {
     "tool_id": "calculator_tool",
-    "name": "Calculation Specialist",
-    "description": "Handles: arithmetic, times, add, convert, percent, tip, totals, and numeric calculations. Not for: flight, train, hotel, weather, stock price, bitcoin price, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "name": "Calculator Calculation Specialist",
+    "description": "Handles: calculate, calculate, arithmetic, times, multiply, add, convert, percent, tip, discount, final price, loan payment, monthly payment, numeric calculation, kilometers. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   },
   {
     "tool_id": "document_tool",
-    "name": "Document Specialist",
-    "description": "Handles: summarize, rewrite, extract, bullet points, action items, notes, emails, and paragraph editing. Not for: weather, rain, umbrella, flight, train, hotel, arithmetic, stock price, bitcoin price, alarm, schedule, meeting, appointment.",
+    "name": "Document Summarize Rewrite Specialist",
+    "description": "Handles: summarize, summarize, rewrite, rewrite, extract, bullet points, action items, notes, paragraph, outline, shorten, concise, document editing, meeting note, rough notes. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   },
   {
     "tool_id": "finance_tool",
-    "name": "Finance Specialist",
-    "description": "Handles: stock price, bitcoin price, crypto price, closing price, and market performance. Not for: weather, travel, flight, hotel, arithmetic, alarm, schedule, meeting, appointment, summarize, rewrite, extract.",
+    "name": "Finance Market Specialist",
+    "description": "Handles: stock price, bitcoin price, crypto price, closing price, market performance, share price, market cap, S&P 500, Nasdaq, financial market. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   },
   {
     "tool_id": "calendar_tool",
     "name": "Calendar Specialist",
-    "description": "Handles: alarm, schedule, meeting, appointment, move, reschedule, and event setup. Not for: weather, rain, flight, hotel, arithmetic, stock price, bitcoin price, summarize, rewrite, extract.",
+    "description": "Handles: alarm, schedule, meeting, appointment, move appointment, reschedule, reminder, remind, cancel meeting, event setup. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "email_tool",
+    "name": "Email Specialist",
+    "description": "Handles: send email, follow-up email, unread emails, inbox search, forward email, invoice email, email delivery, email message. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "web_search_tool",
+    "name": "Web Search Specialist",
+    "description": "Handles: search web, recent news, look up, official release date, official documentation, source lookup, web information, documentation. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "maps_tool",
+    "name": "Maps and Directions Specialist",
+    "description": "Handles: walking directions, driving route, nearby parking, map, location, route, directions, navigation, distance, place search. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "translation_tool",
+    "name": "Translation Specialist",
+    "description": "Handles: translate, translation, Japanese, French, English, Spanish, sentence translation, product tagline, localize. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "coding_tool",
+    "name": "Coding Regex Programming Specialist",
+    "description": "Handles: debug, Python traceback, import fails, SQL query, TypeScript error, React component, regex, email address regex, code generation, programming help. Select this tool only when the user request is primarily about these capabilities.",
+    "schema": {}
+  },
+  {
+    "tool_id": "shopping_tool",
+    "name": "Shopping Product Price Specialist",
+    "description": "Handles: compare products, wireless earbuds, best price, best price, recommend, keyboard, monitor, 4K monitor, under dollars, shopping, product comparison, purchase advice. Select this tool only when the user request is primarily about these capabilities.",
     "schema": {}
   }
 ]
